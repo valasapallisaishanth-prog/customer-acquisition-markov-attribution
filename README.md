@@ -104,6 +104,31 @@ Understanding the full customer journey provides more accurate attribution compa
 
 ---
 
+## Final Attribution Results
+
+| Channel | Removal Effect | Contribution % |
+|---------|----------------|----------------|
+| Referral | 0.000525 | 16.94% |
+| Social Media | 0.000521 | 16.82% |
+| Direct Traffic | 0.000520 | 16.78% |
+| Email | 0.000521 | 16.79% |
+| Display Ads | 0.000519 | 16.73% |
+| Search Ads | 0.000517 | 16.64% |
+
+## How to Run
+1. Clone the repository
+2. Install dependencies from requirements.txt
+3. Open the notebook in Jupyter or Colab
+4. Run all cells in sequence
+
+## Tech Stack
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Markov Chain modeling
+
 ## Author
 
 Valasapalli Sai Shanth Kumar  
